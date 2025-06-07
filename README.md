@@ -48,3 +48,8 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 ### 📈 Application Preview
 ![Preview](Screenshot%202025-06-07%20150555.png)
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
