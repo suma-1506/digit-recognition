@@ -36,3 +36,15 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
  The model may occasionally misclassify certain digits like 1,7 especially if drawn ambiguously — this is expected behavior for models trained on real-world handwritten data.
 
  Performance can be improved with more data, augmentation, or tuning, but this version is optimized for simplicity and ease of use.
+
+ ## 🖼️ Screenshots
+
+### 🎨 GUI Interface
+![GUI Interface](Screenshot%202025-06-07%20150421.png)
+
+### 🔍 Model Prediction in Action
+![Prediction](Screenshot%202025-06-07%20150535.png)
+
+### 📈 Application Preview
+![Preview](Screenshot%202025-06-07%20150555.png)
+
