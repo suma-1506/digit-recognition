@@ -39,13 +39,13 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
  ## 🖼️ Screenshots
 
-### 🎨 GUI Interface
+
 ![GUI Interface](Screenshot%202025-06-07%20150421.png)
 
-### 🔍 Model Prediction in Action
+
 ![Prediction](Screenshot%202025-06-07%20150535.png)
 
-### 📈 Application Preview
+
 ![Preview](Screenshot%202025-06-07%20150555.png)
 
 ## 📜 License
