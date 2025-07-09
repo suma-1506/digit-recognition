@@ -9,12 +9,12 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 - Uses TensorFlow, Keras, and Tkinter
 
 ## 🖥️ Files Overview
-
+```bash
  `model_train.py`       Contains the model architecture, training logic, and saves the trained model as `mnist_model.h5`. 
  `app_gui.py`           A graphical user interface where you can draw a digit and get real-time predictions. 
  `requirements.txt`     Lists all required Python packages.
  `README.md`            Project documentation and description.
-
+```
 ## 📝 How to Use
 
 1. **Install Dependencies**
