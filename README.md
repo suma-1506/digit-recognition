@@ -18,17 +18,17 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 ## 📝 How to Use
 
 1. **Install Dependencies**
-
+```bash
    pip install -r requirements.txt
-
+```
 2. **Train the Model (if needed)**
-
+```bash
     python model_train.py
-
+```
 3. **Run the Digit Recognition GUI**
-
+```bash
     python app_gui.py
-
+```
 4. Draw any digit (0–9) in the canvas area and click Predict!
 
 ⚠️ Notes
